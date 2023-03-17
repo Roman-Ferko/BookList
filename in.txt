@@ -1,0 +1,10 @@
+E.M. Remarque	|"Three comrades"		|1936|304|206|
+D. Keyes	|"Flowers for Algernon"		|1959|166|120|
+A. Conan Doyle	|"The Hound of the Baskervilles	|1901|110|214|
+R.L. Stevenson	|"Treasure Island"		|1883|292|236|
+I. Bahrianyi	|"Tiger Trappers"		|1944|174|175|
+G. Orwell	|"Animal Farm"			|1945|54 |100|
+J. Goethe	|"Faust"			|1790|439|285|
+P. Coelho	|"The Alchemist"		|1988|163|125|
+H. Lee		|"To Kill a Mockingbird"	|1960|281|290|
+J. Yausten	|"Pride and Prejudice"		|1813|345|130|

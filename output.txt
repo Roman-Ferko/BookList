@@ -1,0 +1,38 @@
+Unsorted list
+|E.M. Remarque	|"Three comrades"		|1936|304|206.00|
+|D. Keyes	|"Flowers for Algernon"		|1959|166|120.00|
+|A. Conan Doyle	|"The Hound of the Baskervilles	|1901|110|214.00|
+|R.L. Stevenson	|"Treasure Island"		|1883|292|236.00|
+|I. Bahrianyi	|"Tiger Trappers"		|1944|174|175.00|
+|G. Orwell	|"Animal Farm"			|1945| 54|100.00|
+|J. Goethe	|"Faust"			|1790|439|285.00|
+|P. Coelho	|"The Alchemist"		|1988|163|125.00|
+|H. Lee		|"To Kill a Mockingbird"	|1960|281|290.00|
+|J. Yausten	|"Pride and Prejudice"		|1813|345|130.00|
+
+Sorted List:
+|J. Goethe	|"Faust"			|1790|439|285.00|
+|J. Yausten	|"Pride and Prejudice"		|1813|345|130.00|
+|R.L. Stevenson	|"Treasure Island"		|1883|292|236.00|
+|A. Conan Doyle	|"The Hound of the Baskervilles	|1901|110|214.00|
+|E.M. Remarque	|"Three comrades"		|1936|304|206.00|
+|I. Bahrianyi	|"Tiger Trappers"		|1944|174|175.00|
+|G. Orwell	|"Animal Farm"			|1945| 54|100.00|
+|D. Keyes	|"Flowers for Algernon"		|1959|166|120.00|
+|H. Lee		|"To Kill a Mockingbird"	|1960|281|290.00|
+|P. Coelho	|"The Alchemist"		|1988|163|125.00|
+
+List with some elements removed : 
+|J. Goethe	|"Faust"			|1790|439|285.00|
+|R.L. Stevenson	|"Treasure Island"		|1883|292|236.00|
+|A. Conan Doyle	|"The Hound of the Baskervilles	|1901|110|214.00|
+|E.M. Remarque	|"Three comrades"		|1936|304|206.00|
+|I. Bahrianyi	|"Tiger Trappers"		|1944|174|175.00|
+|G. Orwell	|"Animal Farm"			|1945| 54|100.00|
+|D. Keyes	|"Flowers for Algernon"		|1959|166|120.00|
+|H. Lee		|"To Kill a Mockingbird"	|1960|281|290.00|
+|P. Coelho	|"The Alchemist"		|1988|163|125.00|
+3 books with least amount of pages:
+|G. Orwell	|"Animal Farm"			|1945| 54|100.00|
+|A. Conan Doyle	|"The Hound of the Baskervilles	|1901|110|214.00|
+|P. Coelho	|"The Alchemist"		|1988|163|125.00|
